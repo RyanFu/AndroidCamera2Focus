@@ -1,4 +1,4 @@
-package com.example.openandroid;
+package com.example.openandroid.util;
 
 import android.util.Size;
 
